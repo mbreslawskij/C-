@@ -1,0 +1,39 @@
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.exe
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.deps.json
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.runtimeconfig.json
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.runtimeconfig.dev.json
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.dll
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.pdb
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.csproj.AssemblyReference.cache
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.AssemblyInfoInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.AssemblyInfo.cs
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.dll
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.pdb
+D:\Cursos\programacao\IMPACTA\C#\Exercício_1\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.genruntimeconfig.cache
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.exe
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.deps.json
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.runtimeconfig.json
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.runtimeconfig.dev.json
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.dll
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.pdb
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.csproj.AssemblyReference.cache
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.AssemblyInfoInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.AssemblyInfo.cs
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.dll
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.pdb
+D:\Cursos\programacao\IMPACTA\C#\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.genruntimeconfig.cache
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.csproj.AssemblyReference.cache
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.AssemblyInfoInputs.cache
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.AssemblyInfo.cs
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.csproj.CoreCompileInputs.cache
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.dll
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.pdb
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.exe
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.deps.json
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.runtimeconfig.json
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.runtimeconfig.dev.json
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.dll
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\bin\Debug\netcoreapp3.1\Desafio_1.pdb
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\C-_Impacta\troco\Desafio_1\Desafio_1\obj\Debug\netcoreapp3.1\Desafio_1.genruntimeconfig.cache
