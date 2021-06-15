@@ -1,0 +1,13 @@
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.exe
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.deps.json
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.runtimeconfig.json
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.runtimeconfig.dev.json
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.dll
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.pdb
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.csproj.AssemblyReference.cache
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.AssemblyInfoInputs.cache
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.AssemblyInfo.cs
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.csproj.CoreCompileInputs.cache
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.dll
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.pdb
+E:\Cursos\Desenv Full Stack\C#\Core\caixaeletronico\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.genruntimeconfig.cache
